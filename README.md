@@ -14,6 +14,7 @@ A more readable version: https://pjburnhill.github.io/stadia-controller-support/
 ## Wired
 
 ### Desktop - Windows
+
 | Platform                                        	| App/Software           	| Works 	| Features 	| Notes                           	|
 |-------------------------------------------------	|------------------------	|:-----:	|:--------:	|---------------------------------	|
 | Windows                                         	| Native support         	|   ❌   	|  Jack ✅  	| No native OS-level support.     	|
@@ -31,6 +32,7 @@ A more readable version: https://pjburnhill.github.io/stadia-controller-support/
 |                                                 	| ReWasd                 	|   ✅   	| Rumble ? 	| URL                             	|
 
 ### Desktop - MacOS
+
 | Platform 	| App/Software         	| Works 	|           Features           	| Notes                                                                              	|
 |----------	|----------------------	|:-----:	|:----------------------------:	|------------------------------------------------------------------------------------	|
 | MacOS    	| Native Support       	|   ❌   	|            Jack ✅            	| No native OS-level support. Jack ✅ Rumble❌                                         	|
@@ -43,6 +45,7 @@ A more readable version: https://pjburnhill.github.io/stadia-controller-support/
 |          	| Parsec               	|   ❌   	|                              	| Incorrect default mapping. Some buttons not producing input (triggers, thumb down) 	|
 
 ### Desktop - Other
+
 | Platform               	| App/Software   	| Works 	|                Features               	| Notes                        	|
 |------------------------	|----------------	|:-----:	|:-------------------------------------:	|------------------------------	|
 | Linux                  	| Native Support 	|   ✅   	|            Jack ? Rumble ✅            	| Enable rumble with udev rule 	|
@@ -52,6 +55,7 @@ A more readable version: https://pjburnhill.github.io/stadia-controller-support/
 |                        	| Moonlight      	|   ✅   	|                Rumble ?               	| Android app tested           	|
 
 ### Portables
+
 | Platform        	| App    	| Works 	|     Features    	| Notes                                       	|
 |-----------------	|--------	|:-----:	|:---------------:	|---------------------------------------------	|
 | Android         	|        	|   ✅   	|  Jack ✅ Rumble❌ 	|                                             	|
@@ -61,6 +65,7 @@ A more readable version: https://pjburnhill.github.io/stadia-controller-support/
 | Nintendo Switch 	|        	|   ❌   	|                 	| Source                                      	|
 
 ### Consoles
+
 | Platform        	|      Works     	| Notes                     	|
 |-----------------	|:--------------:	|---------------------------	|
 | PS5             	| ❓ Info missing 	| Untested                  	|
@@ -69,6 +74,7 @@ A more readable version: https://pjburnhill.github.io/stadia-controller-support/
 | Xbox One        	|        ❌       	| Source. Possible remotely 	|
 
 ### Media streaming devices
+
 |          Platform         	|      Works     	|     Features    	|
 |:-------------------------:	|:--------------:	|:---------------:	|
 | Nvidia ShieldTV           	| ✅              	| Jack ? Rumble ? 	|
@@ -76,6 +82,7 @@ A more readable version: https://pjburnhill.github.io/stadia-controller-support/
 | FireTV                    	| ❓ Info missing 	|                 	|
 
 ### Browsers
+
 | Browser                         	| App            	| Working 	| Features 	| Notes                                                                   	|
 |---------------------------------	|----------------	|:-------:	|:--------:	|-------------------------------------------------------------------------	|
 | Chromium (Chrome, MS Edge, etc) 	| Native Support 	|    ✅    	| Rumble ✅ 	| Win, Mac & Linux(?). Rumble implementation depends on site (see below). 	|
