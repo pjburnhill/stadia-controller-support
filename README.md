@@ -1,7 +1,6 @@
-# Stadia Controller Support
 Hopefully a comprehensive list of Stadia Controller-supported devices and platforms.
 
-A more readable version: https://pjburnhill.github.io/stadia-controller-support/
+A more readable version: [https://pjburnhill.github.io/stadia-controller-support/](https://pjburnhill.github.io/stadia-controller-support/)
 
 ## Wireless
 
