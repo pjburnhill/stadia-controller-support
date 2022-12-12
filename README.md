@@ -2,6 +2,10 @@ Hopefully a comprehensive list of Stadia Controller-supported devices and platfo
 
 A more readable version: [https://pjburnhill.github.io/stadia-controller-support/](https://pjburnhill.github.io/stadia-controller-support/)
 
+Jack ✅ means the 3.5mm port on the Stadia controller works as a headset port (audio in & out).
+
+Rumble✅ means controller rumble/vibration is supported and/or enabled.
+
 ## Wireless
 
 | Platform                 	| Works 	| Notes                                                       	|
@@ -28,54 +32,54 @@ A more readable version: [https://pjburnhill.github.io/stadia-controller-support
 
 ### Desktop - Windows
 
-| Platform                                         	| App/Software           	| Works 	| Features 	| Notes                            	|
-|-------------------------------------------------	|------------------------	|:-----:	|:--------:	|---------------------------------	|
-| Windows                                         	| Native support         	|   ❌   	|  Jack ✅  	| No native OS-level support.     	|
-|                                                 	| Steam                  	|   ✅   	|  Rumble✅ 	|                                 	|
-|                                                 	| Chromium (see below)   	|   ✅   	|  Rumble✅ 	|                                 	|
-|                                                 	| GeforceNow App         	|   ✅   	|  Rumble❌ 	|                                 	|
-|                                                 	| Moonlight              	|   ✅   	| Rumble ? 	| [URL](https://moonlight-stream.org/)|
-|                                                 	| Amazon Luna App        	|   ✅   	| Rumble ? 	|                                 	|
-|                                                 	| Xbox Console Companion 	|   ❌   	|          	| URL                             	|
-|                                                 	| Xbox Remote Play       	|   ❌   	|          	| URL. Works on Android.          	|
-|                                                 	| Parsec                 	|   ❌   	|          	| Buttons trigger multiple inputs 	|
-| Emulation via 3rd party apps 	                    |                        	|       	|          	|                                 	|
-|                                                 	| Stadiem                	|   ✅   	| Rumble ? 	| URL                             	|
-|                                                 	| x360ce                 	|   ✅   	| Rumble ? 	| URL                             	|
-|                                                 	| ReWasd                 	|   ✅   	| Rumble ? 	| URL                             	|
+| Platform 	| App/Software           	| Works 	| Jack 	| Rumble 	| Notes                                                                    	|
+|----------	|------------------------	|:-----:	|:----:	|:------:	|--------------------------------------------------------------------------	|
+| Windows  	| Native support         	|   ❌   	|   ✅  	|        	| No native OS-level support.                                              	|
+|          	| Steam                  	|   ✅   	|      	|    ✅   	|                                                                          	|
+|          	| Chromium (see below)   	|   ✅   	|      	|    ✅   	|                                                                          	|
+|          	| GeforceNow App         	|   ✅   	|      	|    ❌   	|                                                                          	|
+|          	| Moonlight              	|   ✅   	|      	|    ?   	| [URL](https://moonlight-stream.org/)                                     	|
+|          	| Amazon Luna App        	|   ✅   	|      	|    ?   	|                                                                          	|
+|          	| Xbox Console Companion 	|   ❌   	|      	|        	| [URL](https://www.microsoft.com/store/apps/9wzdncrfjbd8)                 	|
+|          	| Xbox Remote Play       	|   ❌   	|      	|        	| [URL](https://www.xbox.com/en-US/consoles/remote-play) Works on Android. 	|
+|          	| Parsec                 	|   ❌   	|      	|        	| Buttons trigger multiple inputs                                          	|
+|          	|                        	|       	|      	|        	| Xbox/DS controller emulation via 3rd party apps. See below:              	|
+|          	| Stadiem                	|   ✅   	|      	|    ?   	| [URL](https://github.com/RexSonic/StadiEm)                               	|
+|          	| x360ce                 	|   ✅   	|      	|    ?   	| [URL](https://www.x360ce.com/)                                           	|
+|          	| ReWasd                 	|   ✅   	|      	|    ?   	| [URL](https://www.rewasd.com/)                                           	|
 
 ### Desktop - MacOS
 
-| Platform 	| App/Software         	| Works 	|           Features           	| Notes                                                                              	|
-|----------	|----------------------	|:-----:	|:----------------------------:	|------------------------------------------------------------------------------------	|
-| MacOS    	| Native Support       	|   ❌   	|            Jack ✅            	| No native OS-level support. Jack ✅ Rumble❌                                         	|
-|          	| Steam                	|   ✅   	|           Rumble ?           	|                                                                                    	|
-|          	| Chromium (see below) 	|   ✅   	| Rumble✅(verification needed) 	|                                                                                    	|
-|          	| Moonlight            	|   ✅   	|           Rumble ?           	|                                                                                    	|
-|          	| OpenEmu              	|   ✅   	|           Rumble ?           	| Requires manual button mapping                                                     	|
-|          	| Safari               	|   ❌   	|                              	|                                                                                    	|
-|          	| GeForce Now App      	|   ❌   	|                              	|                                                                                    	|
-|          	| Parsec               	|   ❌   	|                              	| Incorrect default mapping. Some buttons not producing input (triggers, thumb down) 	|
+| Platform 	| App/Software         	| Works 	| Jack 	| Rumble 	| Notes                                                                              	|
+|----------	|----------------------	|:-----:	|:----:	|:------:	|------------------------------------------------------------------------------------	|
+| MacOS    	| Native Support       	|   ❌   	|   ✅  	|        	| No native OS-level support.                                                        	|
+|          	| Steam                	|   ✅   	|      	|    ?   	|                                                                                    	|
+|          	| Chromium (see below) 	|   ✅   	|      	|    ✅   	| Rumble verification needed                                                         	|
+|          	| Moonlight            	|   ✅   	|      	|    ?   	|                                                                                    	|
+|          	| OpenEmu              	|   ✅   	|      	|    ?   	| Requires manual button mapping                                                     	|
+|          	| Safari               	|   ❌   	|      	|        	|                                                                                    	|
+|          	| GeForce Now App      	|   ❌   	|      	|        	|                                                                                    	|
+|          	| Parsec               	|   ❌   	|      	|        	| Incorrect default mapping. Some buttons not producing input (triggers, thumb down) 	|
 
 ### Desktop - Other
 
-| Platform               	| App/Software   	| Works 	|                Features               	| Notes                        	|
-|------------------------	|----------------	|:-----:	|:-------------------------------------:	|------------------------------	|
-| Linux                  	| Native Support 	|   ✅   	|            Jack ? Rumble ✅            	| Enable rumble with udev rule 	|
-| ChromeOS (Chromebooks) 	| Native Support 	|   ✅   	| Jack ✅ Rumble ✅ (verification needed) 	|                              	|
-|                        	| GeforceNow     	|   ✅   	|                Rumble ✅               	|                              	|
-|                        	| xCloud         	|   ✅   	|                Rumble ✅               	| how to enable rumble         	|
-|                        	| Moonlight      	|   ✅   	|                Rumble ?               	| Android app tested           	|
+| Platform               	| App/Software   	| Works 	| Jack 	| Rumble 	| Notes                        	|
+|------------------------	|----------------	|:-----:	|:----:	|:------:	|------------------------------	|
+| Linux                  	| Native Support 	|   ✅   	|   ?  	|    ✅   	| Enable rumble with udev rule 	|
+| ChromeOS (Chromebooks) 	| Native Support 	|   ✅   	|   ✅  	|    ✅   	| Rumble verification needed   	|
+|                        	| GeforceNow     	|   ✅   	|      	|    ✅   	|                              	|
+|                        	| xCloud         	|   ✅   	|      	|    ✅   	| how to enable rumble         	|
+|                        	| Moonlight      	|   ✅   	|      	|    ?   	| Android app tested           	|
 
 ### Portables
 
-| Platform        	| App    	| Works 	|     Features    	| Notes                                       	|
-|-----------------	|--------	|:-----:	|:---------------:	|---------------------------------------------	|
-| Android         	|        	|   ✅   	|  Jack ✅ Rumble❌ 	|                                             	|
-|                 	| Parsec 	|   ❌   	|                 	| Some buttons not producing input (triggers) 	|
-| Steam Deck      	|        	|   ✅   	| Jack ? Rumble ? 	| Tested on SteamOS                           	|
-| iPadOS          	|        	|   ✅   	|  Jack ✅ Rumble❌ 	| Source. iPad Pro USB-C to C tested.         	|
-| Nintendo Switch 	|        	|   ❌   	|                 	| Source                                      	|
+| Platform        	| App    	| Works 	| Jack 	| Rumble 	| Notes                                       	|
+|-----------------	|--------	|:-----:	|:----:	|:------:	|---------------------------------------------	|
+| Android         	|        	|   ✅   	|   ✅  	|    ❌   	|                                             	|
+|                 	| Parsec 	|   ❌   	|      	|        	| Some buttons not producing input (triggers) 	|
+| Steam Deck      	|        	|   ✅   	|   ?  	|    ?   	| Tested on SteamOS                           	|
+| iPadOS          	|        	|   ✅   	|   ✅  	|    ❌   	| Source. iPad Pro USB-C to C tested.         	|
+| Nintendo Switch 	|        	|   ❌   	|      	|        	| Source                                      	|
 
 ### Consoles
 
@@ -88,19 +92,19 @@ A more readable version: [https://pjburnhill.github.io/stadia-controller-support
 
 ### Media streaming devices
 
-|          Platform         	|      Works     	|     Features    	|
-|:-------------------------:	|:--------------:	|:---------------:	|
-| Nvidia ShieldTV           	| ✅              	| Jack ? Rumble ? 	|
-| Chromecast with Google TV 	| ✅              	| Jack ? Rumble ❌ 	|
-| FireTV                    	| ❓ Info missing 	|                 	|
+|          Platform         	|      Works     	| Jack 	| Rumble 	| Notes 	|
+|:-------------------------:	|:--------------:	|:----:	|:------:	|-------	|
+|      Nvidia ShieldTV      	|        ✅       	|   ?  	|        	|       	|
+| Chromecast with Google TV 	|        ✅       	|   ?  	|    ❌   	|       	|
+|           FireTV          	| ❓ Info missing 	|      	|        	|       	|
 
 ### Browsers
 
-| Browser                         	| App            	| Working 	| Features 	| Notes                                                                   	|
-|---------------------------------	|----------------	|:-------:	|:--------:	|-------------------------------------------------------------------------	|
-| Chromium (Chrome, MS Edge, etc) 	| Native Support 	|    ✅    	| Rumble ✅ 	| Win, Mac & Linux(?). Rumble implementation depends on site (see below). 	|
-|                                 	| GeForce Now    	|    ✅    	| Rumble ✅ 	|                                                                         	|
-|                                 	| xCloud         	|    ✅    	| Rumble ✅ 	| how to enable rumble                                                    	|
-| Safari (MacOS)                  	|                	|    ❌    	|          	|                                                                         	|
-| Safari (iOS/iPadOS)             	|                	|    ✅    	| Rumble ? 	| Source.                                                                 	|
-| Firefox                         	|                	|    ❌    	|          	| Wrong mapping                                                           	|
+| Browser                         	| App            	| Working 	| Rumble 	| Notes                                                                   	| URL                          	|
+|---------------------------------	|----------------	|:-------:	|:------:	|-------------------------------------------------------------------------	|------------------------------	|
+| Chromium (Chrome, MS Edge, etc) 	| Native Support 	|    ✅    	|    ✅   	| Win, Mac & Linux(?). Rumble implementation depends on site (see below). 	|                              	|
+|                                 	| GeForce Now    	|    ✅    	|    ✅   	|                                                                         	| https://play.geforcenow.com/ 	|
+|                                 	| xCloud         	|    ✅    	|    ✅   	| how to enable rumble                                                    	| http://xbox.com/play         	|
+| Safari (MacOS)                  	|                	|    ❌    	|        	|                                                                         	|                              	|
+| Safari (iOS/iPadOS)             	|                	|    ✅    	|    ?   	| Source.                                                                 	|                              	|
+| Firefox                         	|                	|    ❌    	|        	| Wrong mapping                                                           	|                              	|
