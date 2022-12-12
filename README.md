@@ -2,7 +2,7 @@ Hopefully a comprehensive list of Stadia Controller-supported devices and platfo
 
 GitHub Page: [https://pjburnhill.github.io/stadia-controller-support/](https://pjburnhill.github.io/stadia-controller-support/)
 
-Discussion and testing results can be found here: https://www.reddit.com/r/Stadia/comments/ziz1kj/stadia_controller_connectivity_guide/
+Discussion and testing results can be found here: [https://www.reddit.com/r/Stadia/comments/ziz1kj/stadia_controller_connectivity_guide/](https://www.reddit.com/r/Stadia/comments/ziz1kj/stadia_controller_connectivity_guide/)
 
 Jack ✅ means the 3.5mm port on the Stadia controller works as a headset port (audio in & out).
 
