@@ -28,7 +28,7 @@ A more readable version: [https://pjburnhill.github.io/stadia-controller-support
 
 ### Desktop - Windows
 
-| Platform                                        	| App/Software           	| Works 	| Features 	| Notes                           	|
+| Platform                                         	| App/Software           	| Works 	| Features 	| Notes                            	|
 |-------------------------------------------------	|------------------------	|:-----:	|:--------:	|---------------------------------	|
 | Windows                                         	| Native support         	|   ❌   	|  Jack ✅  	| No native OS-level support.     	|
 |                                                 	| Steam                  	|   ✅   	|  Rumble✅ 	|                                 	|
@@ -39,7 +39,7 @@ A more readable version: [https://pjburnhill.github.io/stadia-controller-support
 |                                                 	| Xbox Console Companion 	|   ❌   	|          	| URL                             	|
 |                                                 	| Xbox Remote Play       	|   ❌   	|          	| URL. Works on Android.          	|
 |                                                 	| Parsec                 	|   ❌   	|          	| Buttons trigger multiple inputs 	|
-| Xbox/DS controller emulation via 3rd party apps 	|                        	|       	|          	|                                 	|
+| Emulation via 3rd party apps 	                    |                        	|       	|          	|                                 	|
 |                                                 	| Stadiem                	|   ✅   	| Rumble ? 	| URL                             	|
 |                                                 	| x360ce                 	|   ✅   	| Rumble ? 	| URL                             	|
 |                                                 	| ReWasd                 	|   ✅   	| Rumble ? 	| URL                             	|
