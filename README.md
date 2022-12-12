@@ -13,11 +13,17 @@ A more readable version: [https://pjburnhill.github.io/stadia-controller-support
 ## Wired
 
 [Desktop - Windows](https://pjburnhill.github.io/stadia-controller-support/#desktop---windows)
+
 [Desktop - MacOS](https://pjburnhill.github.io/stadia-controller-support/#desktop---macos)
+
 [Desktop - Other](https://pjburnhill.github.io/stadia-controller-support/#desktop---other)
+
 [Portables](https://pjburnhill.github.io/stadia-controller-support/#portables)
+
 [Consoles](https://pjburnhill.github.io/stadia-controller-support/#consoles)
+
 [Media Streaming Devices](https://pjburnhill.github.io/stadia-controller-support/#media-streaming-devices)
+
 [Browsers](https://pjburnhill.github.io/stadia-controller-support/#browsers)
 
 ### Desktop - Windows
