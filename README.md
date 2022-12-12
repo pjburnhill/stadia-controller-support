@@ -36,16 +36,16 @@ Rumble✅ means controller rumble/vibration is supported and/or enabled.
 
 |Platform|App/Software|Works|Jack|Rumble|Notes|
 |:-|:-|:-|:-|:-|:-|
-|Windows|Native support|❌|✅||No native OS-level controller support.|
-||Steam|✅||✅||
-||Chromium (see below)|✅||✅||
-||GeforceNow App|✅||❌||
-||Moonlight|✅||?|[URL](https://moonlight-stream.org/)|
-||Amazon Luna App|✅||?||
+|Windows|Native support|❌|✅|❌|No native OS-level controller support / Jack working system-wide|
+||Steam|✅|✅|✅||
+||Chromium (see below)|✅|✅|✅||
+||GeforceNow App|✅|✅|❌||
+||Moonlight|✅|✅|?|[URL](https://moonlight-stream.org/)|
+||Amazon Luna App|✅|✅|?||
 ||Xbox Console Companion|❌|||[URL](https://www.microsoft.com/store/apps/9wzdncrfjbd8) / [Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztdbbl/?utm_source=share&utm_medium=web2x&context=3)|
 ||Xbox Remote Play|❌|||[URL](https://www.xbox.com/en-US/consoles/remote-play) / [Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztdbbl/?utm_source=share&utm_medium=web2x&context=3) / Works on Android.|
 ||Parsec|❌|||Buttons trigger multiple inputs|
-||||||Xbox/DS controller emulation via 3rd party apps. See below:|
+||Controller emulation via:|||||
 ||Stadiem|✅||?|[URL](https://github.com/RexSonic/StadiEm)|
 ||x360ce|✅||?|[URL](https://www.x360ce.com/)|
 ||ReWasd|✅||?|[URL](https://www.rewasd.com/)|
@@ -56,14 +56,15 @@ Rumble✅ means controller rumble/vibration is supported and/or enabled.
 
 |Platform|App/Software|Works|Jack|Rumble|Notes|
 |:-|:-|:-|:-|:-|:-|
-|MacOS|Native Support|❌|✅||No native OS-level controller support.|
-||Steam|✅||?||
-||Chromium (see below)|✅||✅|Rumble verification needed|
-||Moonlight|✅||?||
-||OpenEmu|✅||?|Requires manual button mapping|
+|MacOS|Native Support|❌|✅|❌|No native OS-level controller support / Jack working system-wide|
+||Steam|✅|✅|?||
+||Chromium (see below)|✅|✅|✅|Rumble verification needed|
+||Moonlight|✅|✅|?||
+||OpenEmu|✅|✅|?|Requires manual button mapping|
 ||Safari|❌||||
 ||GeForce Now App|❌||||
-||Parsec|❌|||Incorrect default mapping. Some buttons not producing input (triggers, thumb down)|
+||Parsec|❌|||Some buttons not producing input (triggers, thumb down)|
+||Controller emulation via:|❓ Info missing||||
 
 &#x200B;
 
@@ -73,9 +74,9 @@ Rumble✅ means controller rumble/vibration is supported and/or enabled.
 |:-|:-|:-|:-|:-|:-|
 |Linux|Native Support|✅|?|✅|Enable rumble with [udev rule](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztc1tk/?utm_source=share&utm_medium=web2x&context=3)|
 |ChromeOS (Chromebooks)|Native Support|✅|✅|✅|Rumble verification needed|
-||GeforceNow|✅||✅||
-||xCloud|✅||✅|How to [enable rumble](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izworqw/?utm_source=share&utm_medium=web2x&context=3)|
-||Moonlight|✅||?|Android app tested|
+||GeforceNow|✅|✅|✅||
+||xCloud|✅|✅|✅|How to [enable rumble](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izworqw/?utm_source=share&utm_medium=web2x&context=3)|
+||Moonlight|✅|✅|?|Android app tested|
 
 &#x200B;
 
@@ -97,7 +98,7 @@ Rumble✅ means controller rumble/vibration is supported and/or enabled.
 |:-|:-|:-|
 |PS5|❓ Info missing|Untested|
 |PS4|❌|Apparently not ([source](https://www.reddit.com/r/Stadia/comments/ripnnu/comment/hp1g6ms/?utm_source=share&utm_medium=web2x&context=3))|
-|PS3|✅|[Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izxmjg4/?utm_source=share&utm_medium=web2x&context=3) / Some buttons need remapping.|
+|PS3|✅|[Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izxmjg4/?utm_source=share&utm_medium=web2x&context=3) / Some buttons need remapping|
 |Xbox Series X/S|❌|[Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izu9kfv/?utm_source=share&utm_medium=web2x&context=3) / Possible [remotely](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztdbbl/?utm_source=share&utm_medium=web2x&context=3)|
 |Xbox One|❌|[Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izua017/?utm_source=share&utm_medium=web2x&context=3) / Possible [remotely](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztdbbl/?utm_source=share&utm_medium=web2x&context=3)|
 
@@ -105,23 +106,28 @@ Rumble✅ means controller rumble/vibration is supported and/or enabled.
 
 ## Media streaming devices
 
-|Platform|Works|Jack|Rumble|Notes|
-|:-|:-|:-|:-|:-|
-|Nvidia ShieldTV|✅|?|||
-|Chromecast with Google TV|✅|?|❌||
-|FireTV|❓ Info missing||||
+|Platform|App|Works|Jack|Rumble|Notes|
+|:-|:-|:-|:-|:-|:-|
+|Nvidia ShieldTV|Native support|✅|✅\*|❌|\*Jack detection [temperamental](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izymgkp/?utm_source=share&utm_medium=web2x&context=3)|
+||Nvidia Game Streaming|✅|✅\*|❌||
+||Steam Link|✅|✅\*|✅||
+||Parsec|✅|✅\*|❌|No input on Guide/Back button|
+||Moonlight|✅|✅\*|❌||
+||Native Apps|❓ Info missing|✅\*|||
+|Chromecast with Google TV||✅|?|❌||
+|FireTV||❓ Info missing||||
 
 &#x200B;
 
 ## Browsers
 
-|Browser|App|Working|Rumble|Notes|URL|
-|:-|:-|:-|:-|:-|:-|
-|Chromium (Chrome, MS Edge, etc)|Native Support|✅|✅|Win, Mac & Linux(?). Rumble implementation depends on site (see below).||
-||GeForce Now|✅|✅||[https://play.geforcenow.com/](https://play.geforcenow.com/)|
-||xCloud|✅|✅|[how to enable](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izworqw/?utm_source=share&utm_medium=web2x&context=3) rumble|[http://xbox.com/play](http://xbox.com/play)|
-|Safari (MacOS)||❌||||
-|Safari (iOS/iPadOS)||✅|?|[Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izuahjg/?utm_source=share&utm_medium=web2x&context=3)||
-|Firefox||❌||Wrong mapping||
+|Browser|App|Working|Rumble|Notes|
+|:-|:-|:-|:-|:-|
+|Chromium (Chrome, MS Edge, etc)|Native Support|✅|✅|Win, Mac & Linux(?). Rumble implementation depends on site (see below).|
+||GeForce Now|✅|✅||
+||xCloud|✅|✅|[how to enable](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izworqw/?utm_source=share&utm_medium=web2x&context=3) rumble|
+|Safari (MacOS)||❌|||
+|Safari (iOS/iPadOS)||✅|?|[Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izuahjg/?utm_source=share&utm_medium=web2x&context=3)|
+|Firefox||❌||Wrong mapping|
 
 &#x200B;
