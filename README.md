@@ -42,8 +42,8 @@ Rumble✅ means controller rumble/vibration is supported and/or enabled.
 ||GeforceNow App|✅||❌||
 ||Moonlight|✅||?|[URL](https://moonlight-stream.org/)|
 ||Amazon Luna App|✅||?||
-||Xbox Console Companion|❌|||[URL](https://www.microsoft.com/store/apps/9wzdncrfjbd8) | [Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztdbbl/?utm_source=share&utm_medium=web2x&context=3)|
-||Xbox Remote Play|❌|||[URL](https://www.xbox.com/en-US/consoles/remote-play) | [Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztdbbl/?utm_source=share&utm_medium=web2x&context=3) Works on Android.|
+||Xbox Console Companion|❌|||[URL](https://www.microsoft.com/store/apps/9wzdncrfjbd8) / [Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztdbbl/?utm_source=share&utm_medium=web2x&context=3)|
+||Xbox Remote Play|❌|||[URL](https://www.xbox.com/en-US/consoles/remote-play) / [Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztdbbl/?utm_source=share&utm_medium=web2x&context=3) / Works on Android.|
 ||Parsec|❌|||Buttons trigger multiple inputs|
 ||||||Xbox/DS controller emulation via 3rd party apps. See below:|
 ||Stadiem|✅||?|[URL](https://github.com/RexSonic/StadiEm)|
@@ -86,7 +86,7 @@ Rumble✅ means controller rumble/vibration is supported and/or enabled.
 |Android||✅|✅|❌||
 ||Parsec|❌|||Some buttons not producing input (triggers)|
 |Steam Deck||✅|?|?|Tested on SteamOS|
-|iPadOS||✅|✅|❌|[Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izuahjg/?utm_source=share&utm_medium=web2x&context=3) | iPad Pro USB-C to C tested.|
+|iPadOS||✅|✅|❌|[Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izuahjg/?utm_source=share&utm_medium=web2x&context=3) / iPad Pro USB-C to C tested.|
 |Nintendo Switch||❌|||[Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izszwp3/?utm_source=share&utm_medium=web2x&context=3)|
 
 &#x200B;
@@ -97,9 +97,9 @@ Rumble✅ means controller rumble/vibration is supported and/or enabled.
 |:-|:-|:-|
 |PS5|❓ Info missing|Untested|
 |PS4|❌|Apparently not ([source](https://www.reddit.com/r/Stadia/comments/ripnnu/comment/hp1g6ms/?utm_source=share&utm_medium=web2x&context=3))|
-|PS3|✅|[Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izxmjg4/?utm_source=share&utm_medium=web2x&context=3) | Some buttons need remapping.|
-|Xbox Series X/S|❌|[Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izu9kfv/?utm_source=share&utm_medium=web2x&context=3) | Possible [remotely](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztdbbl/?utm_source=share&utm_medium=web2x&context=3)|
-|Xbox One|❌|[Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izua017/?utm_source=share&utm_medium=web2x&context=3) | Possible [remotely](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztdbbl/?utm_source=share&utm_medium=web2x&context=3)|
+|PS3|✅|[Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izxmjg4/?utm_source=share&utm_medium=web2x&context=3) / Some buttons need remapping.|
+|Xbox Series X/S|❌|[Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izu9kfv/?utm_source=share&utm_medium=web2x&context=3) / Possible [remotely](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztdbbl/?utm_source=share&utm_medium=web2x&context=3)|
+|Xbox One|❌|[Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izua017/?utm_source=share&utm_medium=web2x&context=3) / Possible [remotely](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztdbbl/?utm_source=share&utm_medium=web2x&context=3)|
 
 &#x200B;
 
