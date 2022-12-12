@@ -65,10 +65,10 @@ Rumble✅ means controller rumble/vibration is supported and/or enabled.
 
 | Platform               	| App/Software   	| Works 	| Jack 	| Rumble 	| Notes                        	|
 |------------------------	|----------------	|:-----:	|:----:	|:------:	|------------------------------	|
-| Linux                  	| Native Support 	|   ✅   	|   ?  	|    ✅   	| Enable rumble with udev rule 	|
+| Linux                  	| Native Support 	|   ✅   	|   ?  	|    ✅   	| Enable rumble with [udev rule](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztc1tk/?utm_source=share&utm_medium=web2x&context=3)|
 | ChromeOS (Chromebooks) 	| Native Support 	|   ✅   	|   ✅  	|    ✅   	| Rumble verification needed   	|
 |                        	| GeforceNow     	|   ✅   	|      	|    ✅   	|                              	|
-|                        	| xCloud         	|   ✅   	|      	|    ✅   	| how to enable rumble         	|
+|                        	| xCloud         	|   ✅   	|      	|    ✅   	| how to [enable rumble](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izworqw/?utm_source=share&utm_medium=web2x&context=3)|
 |                        	| Moonlight      	|   ✅   	|      	|    ?   	| Android app tested           	|
 
 ### Portables
@@ -78,7 +78,7 @@ Rumble✅ means controller rumble/vibration is supported and/or enabled.
 | Android         	|        	|   ✅   	|   ✅  	|    ❌   	|                                             	|
 |                 	| Parsec 	|   ❌   	|      	|        	| Some buttons not producing input (triggers) 	|
 | Steam Deck      	|        	|   ✅   	|   ?  	|    ?   	| Tested on SteamOS                           	|
-| iPadOS          	|        	|   ✅   	|   ✅  	|    ❌   	| Source. iPad Pro USB-C to C tested.         	|
+| iPadOS          	|        	|   ✅   	|   ✅  	|    ❌   	| [Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izuahjg/?utm_source=share&utm_medium=web2x&context=3) iPad Pro USB-C to C tested.         	|
 | Nintendo Switch 	|        	|   ❌   	|      	|        	| Source                                      	|
 
 ### Consoles
@@ -86,9 +86,9 @@ Rumble✅ means controller rumble/vibration is supported and/or enabled.
 | Platform        	|      Works     	| Notes                     	|
 |-----------------	|:--------------:	|---------------------------	|
 | PS5             	| ❓ Info missing 	| Untested                  	|
-| PS4             	|        ❌       	| Apparently not (source)   	|
-| Xbox Series X/S 	|        ❌       	| Source. Possible remotely 	|
-| Xbox One        	|        ❌       	| Source. Possible remotely 	|
+| PS4             	|        ❌       	| Apparently not ([source](https://www.reddit.com/r/Stadia/comments/ripnnu/comment/hp1g6ms/?utm_source=share&utm_medium=web2x&context=3))   	|
+| Xbox Series X/S 	|        ❌       	| [Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izu9kfv/?utm_source=share&utm_medium=web2x&context=3) Possible [remotely](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztdbbl/?utm_source=share&utm_medium=web2x&context=3) 	|
+| Xbox One        	|        ❌       	| [Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izua017/?utm_source=share&utm_medium=web2x&context=3) Possible [remotely](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztdbbl/?utm_source=share&utm_medium=web2x&context=3) 	|
 
 ### Media streaming devices
 
@@ -104,7 +104,7 @@ Rumble✅ means controller rumble/vibration is supported and/or enabled.
 |---------------------------------	|----------------	|:-------:	|:------:	|-------------------------------------------------------------------------	|------------------------------	|
 | Chromium (Chrome, MS Edge, etc) 	| Native Support 	|    ✅    	|    ✅   	| Win, Mac & Linux(?). Rumble implementation depends on site (see below). 	|                              	|
 |                                 	| GeForce Now    	|    ✅    	|    ✅   	|                                                                         	| https://play.geforcenow.com/ 	|
-|                                 	| xCloud         	|    ✅    	|    ✅   	| how to enable rumble                                                    	| http://xbox.com/play         	|
+|                                 	| xCloud         	|    ✅    	|    ✅   	| [how to enable](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izworqw/?utm_source=share&utm_medium=web2x&context=3) rumble                                                    	| http://xbox.com/play         	|
 | Safari (MacOS)                  	|                	|    ❌    	|        	|                                                                         	|                              	|
-| Safari (iOS/iPadOS)             	|                	|    ✅    	|    ?   	| Source.                                                                 	|                              	|
+| Safari (iOS/iPadOS)             	|                	|    ✅    	|    ?   	| [Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izuahjg/?utm_source=share&utm_medium=web2x&context=3)                                                                 	|                              	|
 | Firefox                         	|                	|    ❌    	|        	| Wrong mapping                                                           	|                              	|
