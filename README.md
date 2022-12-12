@@ -79,7 +79,7 @@ Rumble✅ means controller rumble/vibration is supported and/or enabled.
 |                 	| Parsec 	|   ❌   	|      	|        	| Some buttons not producing input (triggers) 	|
 | Steam Deck      	|        	|   ✅   	|   ?  	|    ?   	| Tested on SteamOS                           	|
 | iPadOS          	|        	|   ✅   	|   ✅  	|    ❌   	| [Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izuahjg/?utm_source=share&utm_medium=web2x&context=3) iPad Pro USB-C to C tested.         	|
-| Nintendo Switch 	|        	|   ❌   	|      	|        	| Source                                      	|
+| Nintendo Switch 	|        	|   ❌   	|      	|        	| [Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izszwp3/?utm_source=share&utm_medium=web2x&context=3)                                      	|
 
 ### Consoles
 
