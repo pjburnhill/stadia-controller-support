@@ -44,6 +44,7 @@ Rumble✅ means controller rumble/vibration is supported and/or enabled.
 ||Amazon Luna App|✅|✅|?||
 ||Xbox Console Companion|❌|||[URL](https://www.microsoft.com/store/apps/9wzdncrfjbd8) / [Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztdbbl/?utm_source=share&utm_medium=web2x&context=3)|
 ||Xbox Remote Play|❌|||[URL](https://www.xbox.com/en-US/consoles/remote-play) / [Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztdbbl/?utm_source=share&utm_medium=web2x&context=3) / Works on Android.|
+||PS Remote Play|❌||||
 ||Parsec|❌|||Buttons trigger multiple inputs|
 ||Controller emulation via:|||||
 ||Stadiem|✅||?|[URL](https://github.com/RexSonic/StadiEm)|
@@ -72,7 +73,7 @@ Rumble✅ means controller rumble/vibration is supported and/or enabled.
 
 |Platform|App/Software|Works|Jack|Rumble|Notes|
 |:-|:-|:-|:-|:-|:-|
-|Linux|Native Support|✅|?|✅|Enable rumble with [udev rule](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztc1tk/?utm_source=share&utm_medium=web2x&context=3)|
+|Linux|Native Support|✅|✅|✅|Enable rumble with [udev rule](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztc1tk/?utm_source=share&utm_medium=web2x&context=3) / Jack confirmed for [Fedora 36 & 37](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/j044op8/?utm_source=share&utm_medium=web2x&context=3)|
 |ChromeOS (Chromebooks)|Native Support|✅|✅|✅|Rumble verification needed|
 ||GeforceNow|✅|✅|✅||
 ||xCloud|✅|✅|✅|How to [enable rumble](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izworqw/?utm_source=share&utm_medium=web2x&context=3)|
@@ -96,9 +97,9 @@ Rumble✅ means controller rumble/vibration is supported and/or enabled.
 
 |Platform|Works|Notes|
 |:-|:-|:-|
-|PS5|❓ Info missing|Untested|
-|PS4|❌|Apparently not ([source](https://www.reddit.com/r/Stadia/comments/ripnnu/comment/hp1g6ms/?utm_source=share&utm_medium=web2x&context=3))|
-|PS3|✅|[Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izxmjg4/?utm_source=share&utm_medium=web2x&context=3) / Some buttons need remapping|
+|PS5|❓ Info missing|Possible [remotely](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/j01whc3/?utm_source=share&utm_medium=web2x&context=3)|
+|PS4|❌|Apparently not ([source](https://www.reddit.com/r/Stadia/comments/ripnnu/comment/hp1g6ms/?utm_source=share&utm_medium=web2x&context=3)) / Possible [remotely](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/j01whc3/?utm_source=share&utm_medium=web2x&context=3)|
+|PS3|❌|Wrong mapping ([source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/j01b3y2/?utm_source=share&utm_medium=web2x&context=3))|
 |Xbox Series X/S|❌|[Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izu9kfv/?utm_source=share&utm_medium=web2x&context=3) / Possible [remotely](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztdbbl/?utm_source=share&utm_medium=web2x&context=3)|
 |Xbox One|❌|[Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izua017/?utm_source=share&utm_medium=web2x&context=3) / Possible [remotely](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztdbbl/?utm_source=share&utm_medium=web2x&context=3)|
 
