@@ -23,11 +23,11 @@ Rumble✅ means controller rumble/vibration is supported and/or enabled.
 |Platform|App/Software|Wired|Jack Audio|Rumble|Notes|
 |:-|:-|:-|:-|:-|:-|
 |Windows|Native support|❌|✅|❌|No native OS-level controller support / Jack working system-wide|
-||Steam|✅|✅|✅||
-||Chromium (see below)|✅|✅|✅||
-||GeforceNow App|✅|✅|❌||
-||Moonlight|✅|✅|?|[URL](https://moonlight-stream.org/)|
-||Amazon Luna App|✅|✅|?||
+||Steam|✅||✅||
+||Chromium (see below)|✅||✅||
+||GeforceNow App|✅||❌||
+||Moonlight|✅||?|[URL](https://moonlight-stream.org/)|
+||Amazon Luna App|✅||?||
 ||Xbox Console Companion|❌|||[URL](https://www.microsoft.com/store/apps/9wzdncrfjbd8) / [Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztdbbl/?utm_source=share&utm_medium=web2x&context=3)|
 ||Xbox Remote Play|❌|||[URL](https://www.xbox.com/en-US/consoles/remote-play) / [Source](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztdbbl/?utm_source=share&utm_medium=web2x&context=3) / Works on Android.|
 ||PS Remote Play|❌||||
@@ -44,10 +44,10 @@ Rumble✅ means controller rumble/vibration is supported and/or enabled.
 |Platform|App/Software|Wired|Jack Audio|Rumble|Notes|
 |:-|:-|:-|:-|:-|:-|
 |MacOS|Native Support|❌|✅|❌|No native OS-level controller support / Jack working system-wide|
-||Steam|✅|✅|?||
-||Chromium (see below)|✅|✅|✅|Rumble verification needed|
-||Moonlight|✅|✅|?||
-||OpenEmu|✅|✅|?|Requires manual button mapping|
+||Steam|✅||?||
+||Chromium (see below)|✅||✅|Rumble verification needed|
+||Moonlight|✅||?||
+||OpenEmu|✅||?|Requires manual button mapping|
 ||Safari|❌||||
 ||GeForce Now App|❌||||
 ||Parsec|❌|||Some buttons not producing input (triggers, thumb down)|
@@ -61,9 +61,9 @@ Rumble✅ means controller rumble/vibration is supported and/or enabled.
 |:-|:-|:-|:-|:-|:-|
 |Linux|Native Support|✅|✅|✅|Enable rumble with [udev rule](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/iztc1tk/?utm_source=share&utm_medium=web2x&context=3) / Jack confirmed for [Fedora 36 & 37](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/j044op8/?utm_source=share&utm_medium=web2x&context=3)|
 |ChromeOS (Chromebooks)|Native Support|✅|✅|✅|Rumble verification needed|
-||GeforceNow|✅|✅|✅||
-||xCloud|✅|✅|✅|How to [enable rumble](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izworqw/?utm_source=share&utm_medium=web2x&context=3)|
-||Moonlight|✅|✅|?|Android app tested|
+||GeforceNow|✅||✅||
+||xCloud|✅||✅|How to [enable rumble](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izworqw/?utm_source=share&utm_medium=web2x&context=3)|
+||Moonlight|✅||?|Android app tested|
 
 &#x200B;
 
@@ -96,11 +96,11 @@ Rumble✅ means controller rumble/vibration is supported and/or enabled.
 |Platform|App|Wired|Jack Audio|Rumble|Notes|
 |:-|:-|:-|:-|:-|:-|
 |Nvidia ShieldTV|Native support|✅|✅\*|❌|\*Jack detection [temperamental](https://www.reddit.com/r/Stadia/comments/ziz1kj/comment/izymgkp/?utm_source=share&utm_medium=web2x&context=3)|
-||Nvidia Game Streaming|✅|✅\*|❌||
-||Steam Link|✅|✅\*|✅||
-||Parsec|✅|✅\*|❌|No input on Guide/Back button|
-||Moonlight|✅|✅\*|❌||
-||Native Apps|❓ Info missing|✅\*|||
+||Nvidia Game Streaming|✅||❌||
+||Steam Link|✅||✅||
+||Parsec|✅||❌|No input on Guide/Back button|
+||Moonlight|✅||❌||
+||Native Apps|❓ Info missing||||
 |Chromecast with Google TV||✅|?|❌||
 |FireTV||❓ Info missing||||
 
