@@ -4,7 +4,7 @@ GitHub Page: [https://pjburnhill.github.io/stadia-controller-support/](https://p
 
 Discussion and testing results can be found here: [https://www.reddit.com/r/Stadia/comments/ziz1kj/stadia_controller_connectivity_guide/](https://www.reddit.com/r/Stadia/comments/ziz1kj/stadia_controller_connectivity_guide/)
 
-Jack ✅ means the 3.5mm port on the Stadia controller works as a headset port (audio in & out).
+Jack Audio ✅ means the 3.5mm port on the Stadia controller works as a headset port (audio in & out).
 
 Rumble✅ means controller rumble/vibration is supported and/or enabled.
 
